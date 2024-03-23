@@ -1,0 +1,104 @@
+*{
+    text-align: center;
+}
+/* common css */
+.common{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+.common3{
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+.common4{
+    height: 100px;
+    width: 20%;
+    float: left;
+}
+.common5{
+    height: 100px;
+    width: 16.66%;
+    float: left;
+}
+
+header{
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+}
+.container{
+  overflow: hidden;
+}
+.section1{    
+    height: 100px;
+    width: 50%;
+    float: left;
+    background-color: rgb(76, 147, 161);}
+.section2{
+    height: 100px;
+    width: 50%;
+    float: left;
+    background-color: rgb(11, 179, 221);
+}
+.section3{
+    background-color: rgb(2, 117, 117);
+}
+.section4{
+    background-color: rgb(49, 134, 134);
+}
+.section5{
+    background-color: rgb(63, 88, 88);
+}
+
+.section6{
+    background-color: aquamarine;
+}
+.section7{
+    background-color: rgb(92, 158, 136);
+}
+.section8{
+    background-color: rgb(50, 98, 82);
+}
+.section9{
+    background-color: rgb(34, 117, 89);
+}
+.section10{
+    background-color: rgb(0, 183, 255);
+}
+.section11{
+    background-color: rgb(57, 142, 195);
+}
+.section12{
+    background-color: rgb(38, 95, 181);
+}
+.section13{
+    background-color: rgb(40, 58, 139);
+}
+.section14{
+    background-color: rgb(49, 106, 197);
+}
+.section15{
+    background-color: rgb(90, 230, 179);
+}
+.section16{
+    background-color: rgb(6, 113, 36);
+}
+.section17{
+    background-color: rgb(29, 147, 98);
+}
+.section18{
+    background-color: rgb(87, 167, 140);
+}
+.section19{
+    background-color: rgb(87, 188, 153);
+}
+.section20{
+    background-color: rgb(64, 151, 58);
+}
+footer{
+    height: 80px;
+    width: 100%;
+    background-color: rgba(22, 184, 184, 0.745);
+}
